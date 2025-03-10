@@ -1,6 +1,7 @@
 package com.example.chatggg.models;
 
 import com.example.chatggg.enums.Role;
+import com.example.chatggg.enums.UserStatus;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
